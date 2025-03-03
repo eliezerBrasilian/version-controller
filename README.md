@@ -7,7 +7,7 @@ VersionController is a simple Java class for managing and incrementing version n
 To install this package using Cryxie, run the following command:
 
 ```sh
-cryxie install version_controller@0.0.1
+cryxie install version_controller@0.0.3
 ```
 
 > **Note:** This project uses Cryxie instead of Maven to provide a more lightweight and streamlined dependency management system.
