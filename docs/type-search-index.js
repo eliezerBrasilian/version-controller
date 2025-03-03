@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"version.controller.alpinista","l":"Main"},{"p":"version.controller.alpinista","l":"VersionController"}];updateSearchResults();
