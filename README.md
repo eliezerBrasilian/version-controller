@@ -17,7 +17,7 @@ cryxie install version_controller@0.0.1
 Below is an example of how to use the `VersionController` class:
 
 ```java
-package version.controller.cryxie;
+package version.controller.alpinista;
 
 public class Main {
     public static void main(String[] args) {
